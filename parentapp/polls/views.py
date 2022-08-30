@@ -21,7 +21,7 @@ def index(request):
 
 '''# Create your views here.
 def index(request):
-        parent_one = familiar(nombre='Francisco Nuñez Hernandez', edad= 37, nacimiento= '1985-02-19')
+    parent_one = familiar(nombre='Francisco Nuñez Hernandez', edad= 37, nacimiento= '1985-02-19')
     parent_two = familiar(nombre='Francisco Nuñez Alcala', edad= 3, nacimiento= '2019-08-02')
     parent_three = familiar(nombre='Fernanda Nuñez Alcala', edad= 11, nacimiento= '2011-05-03')
 
